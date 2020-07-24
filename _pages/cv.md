@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computer Scinenc, University of Waterloo, Waterloo Canada (Present)
+* Ph.D in Computer Science, University of Waterloo, Waterloo Canada (Present)
 * M.S. in Communications - Coding, Sharif University of Tech., Tehran, Iran , 2011
 * B.S. in Electrical Engineering, Shahid Beheshti university, Tehran, Iran 2008
 
